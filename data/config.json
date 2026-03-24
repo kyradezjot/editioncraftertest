@@ -3,7 +3,7 @@
   "documentName": "Hamilton Letters",
   "iiifManifest": "/editioncraftertest/<DOCUMENT_ID>/iiif/manifest.json",
   "transcriptionTypes": {
-    "transcription": "Transcription"
+    "text": "Transcription"
   },
   "viewerUrl": "/editioncraftertest"
 }
