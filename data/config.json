@@ -1,7 +1,7 @@
 {
   "id": "ec",
   "documentName": "Hamilton Letters",
-  "iiifManifest": "/editioncraftertest/<DOCUMENT_ID>/iiif/manifest.json",
+  "iiifManifest": "/editioncraftertest/hamilton/iiif/manifest.json",
   "transcriptionTypes": {
     "text": "Transcription"
   },
